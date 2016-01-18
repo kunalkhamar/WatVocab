@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">WatVocab</string>
+	<string name="login">Login</string>
+	<string name="chapters">Chapters</string>
+
+	<string name="vocabs">Vocabs</string>
+	<string name="new_vocab">Create New Vocab</string>
+</resources>
