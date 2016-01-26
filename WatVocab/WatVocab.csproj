@@ -57,6 +57,7 @@
     <Compile Include="Text.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Vocab.cs" />
+    <Compile Include="VocabActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -74,6 +75,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\layout\VocabList.axml" />
     <AndroidResource Include="Resources\layout\ListView_Vocab.axml" />
+    <AndroidResource Include="Resources\layout\Vocab.axml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

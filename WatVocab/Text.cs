@@ -4,9 +4,11 @@ namespace WatVocab
 {
 	public class Text
 	{
-		public Text ()
+		string st;
+
+		public Text (string st)
 		{
+			this.st = st;
 		}
 	}
 }
-
