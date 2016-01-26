@@ -54,7 +54,6 @@
     <Compile Include="VocabListAdapter.cs" />
     <Compile Include="Word.cs" />
     <Compile Include="Language.cs" />
-    <Compile Include="Text.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Vocab.cs" />
     <Compile Include="VocabActivity.cs" />
